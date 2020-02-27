@@ -1,0 +1,33 @@
+{
+  "name": "mall",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "better-scroll": "^1.15.2",
+    "core-js": "^3.4.4",
+    "fastclick": "^1.0.6",
+    "normalize.css": "^8.0.1",
+    "vue": "^2.6.10",
+    "vue-loader": "^15.8.3",
+    "vue-router": "^3.1.5",
+    "vuex": "^3.1.2"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^4.1.0",
+    "@vue/cli-service": "^4.1.0",
+    "vue-template-compiler": "^2.6.10"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions"
+  ],
+  "description": "```\r npm install\r ```",
+  "main": "babel.config.js",
+  "author": "",
+  "license": "ISC"
+}
